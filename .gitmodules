@@ -1,0 +1,3 @@
+[submodule "alfred-python"]
+	path = alfred-python
+	url = https://github.com/JinnLynn/alfred-python.git
